@@ -13,6 +13,7 @@ body {
 
 img {
   size:initial;
+
 }
 
 .headline {
@@ -20,10 +21,16 @@ img {
 }
 .box {
   float: right;
-  
   width:inherit;
   height: 100px;
   border-radius: 5px;
   background-color: rgb(207,232,220);
   padding: 1em;
+}
+
+#mainpic {
+  margin:auto;
+  width:auto;
+  height: auto;
+  display: block;
 }
