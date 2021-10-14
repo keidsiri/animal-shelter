@@ -19,6 +19,8 @@ img {
   text-align: center;
 }
 .box {
+  float: right;
+  margin-right: 15px;
   width:inherit;
   height: 100px;
   border-radius: 5px;
