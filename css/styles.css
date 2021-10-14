@@ -1,0 +1,23 @@
+h1{
+  color:blue;
+}
+
+h2 {
+  color: cadetblue;
+  
+
+}
+body {
+  background-color: cornsilk;
+}
+
+img {
+  size:initial;
+}
+
+.headline {
+  text-align: center;
+}
+p.box {
+  margin: 25px 50px 75px;
+}
