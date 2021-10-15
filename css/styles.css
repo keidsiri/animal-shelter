@@ -32,6 +32,13 @@ img {
   padding: 1em;
 }
 
+.puplist {
+  font-size: medium;
+  font-style: italic;
+  font-variant: normal;
+  color: darkblue;
+}
+
 #mainpic {
   margin:auto;
   width:auto;
